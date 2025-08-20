@@ -150,8 +150,9 @@ function App() {
 
   return (
     <div className="App">
+      <title>휘's 이미지 크롭기</title>
       <header className="header">
-        <h1>배치 이미지 크롭 도구</h1>
+        <h1>이미지 크롭기</h1>
         <p>여러 이미지에서 동일한 영역을 한번에 잘라보세요</p>
       </header>
 
